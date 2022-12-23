@@ -4,7 +4,7 @@
 </header>
 
 <h1 align="left">I'm Vitor Dallagnolo</h1>
-[](https://komarev.com/ghpvc/?username=vitordallagnolo&color=red&style=plastic)
+
 
 <h3 align="left"><i>”In God we trust. All others must bring data.”</h3>
 <h5 align="left"> -W. Edwards Deming</i> </h5>
@@ -33,8 +33,13 @@
 <br>
 <p align=center> 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/vitordallagnolo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordallagnolo&layout=compact&langs_count=7&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordallagnolo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
+ <div>
+  ![](https://komarev.com/ghpvc/?username=vitorallagnolo)
+ </div>
 </p>
+
+
