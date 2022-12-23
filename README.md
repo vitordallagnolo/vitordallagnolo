@@ -4,6 +4,7 @@
 </header>
 
 <h1 align="left">I'm Vitor Dallagnolo</h1>
+![](https://komarev.com/ghpvc/?username=vitordallagnolo&color=red&style=plastic)
 
 <h3 align="left"><i>”In God we trust. All others must bring data.”</h3>
 <h5 align="left"> -W. Edwards Deming</i> </h5>
