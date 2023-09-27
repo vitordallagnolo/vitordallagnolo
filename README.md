@@ -12,8 +12,8 @@
 
 <p align="left">
 <h3 align="left">Languages:</h3>
-<a href="https://pt.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="sql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pt.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="sql" width="40" height="40"/> </a> 
 </p>
 
 <br>
